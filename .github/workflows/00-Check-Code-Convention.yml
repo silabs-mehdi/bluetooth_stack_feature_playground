@@ -10,7 +10,7 @@ on:
       branch:
         description: 'Branch to test'
         type: string
-        default: 'main'
+        default: 'master'
 
 jobs:
   job1:
